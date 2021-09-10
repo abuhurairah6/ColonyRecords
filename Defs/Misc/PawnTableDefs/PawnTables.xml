@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <PawnTableDef>
+    <defName>CR_Records</defName>
+    <workerClass>PawnTable_PlayerPawns</workerClass>
+    <columns>
+    </columns>
+  </PawnTableDef>
+</Defs>

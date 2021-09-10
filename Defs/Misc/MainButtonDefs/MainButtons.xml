@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <MainButtonDef>
+    <defName>CR_Records</defName>
+    <label>records</label>
+    <description>View pawn colony records.</description>
+    <tabWindowClass>ColonyRecords.MainTabWindow_ColonyRecords</tabWindowClass>
+    <order>75</order>
+    <!--<defaultHotKey>F7</defaultHotKey>-->
+    <validWithoutMap>true</validWithoutMap>
+  </MainButtonDef>
+</Defs>
