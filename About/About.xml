@@ -7,9 +7,7 @@
     <li>1.3</li>
   </supportedVersions>
   <packageId>naga.colony_records</packageId>
-  <description>This is a simple mod that adds a new menu that shows all of your pawns' records in one place.
-
-Ever wonder which of your pawns has the most kills? Which pawns has sustained the most damages? Or possibly which pawns has spent the most time under mental break? This mod will help you. It takes all statistics that is recorded on your pawn and displays them in one place.
+  <description>This is a simple mod that adds a new menu that displays all of your pawns' records in one place. 
 
 This mod is save to add to existing saves.
   </description>
