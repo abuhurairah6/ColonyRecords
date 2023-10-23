@@ -62,8 +62,6 @@ namespace ColonyRecords
                 recordTable.columns.Insert(recordTable.columns.FindIndex((PawnColumnDef x) => x.Worker is PawnColumnWorker_Label) + 1, pawnColumnDef);
                 yield return pawnColumnDef;
             }
-            IEnumerator<WorkTypeDef> enumerator = null;
-            yield break;
             yield break;
         }
     }
